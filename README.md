@@ -1,6 +1,8 @@
 unity
 =====
 
+저자 서적 링크 : http://www.yes24.com/24/Goods/15054725
+
 강좌 1 - NGUI로 커버플로우 간단 구현
 * NGUI 3.3 버전 이상을 유니티 프로젝트에 추가한 후 나머지 소스를 추가하여사용합니다.
 * 소스 : https://github.com/totuworld/unity/tree/master/01ngui_coverflow/Assets

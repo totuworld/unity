@@ -13,3 +13,7 @@ unity
 강좌 3 - NGUI로 드래그앤드롭 구현 
 * 소스 : https://github.com/totuworld/unity/tree/master/03ngui_drag_and_drop/Assets
 * 강좌 링크 : http://www.youtube.com/watch?v=wucEoxt7dtk
+
+강좌 4 - NGUI로 디펜스게임UI제작
+* 소스 : https://github.com/totuworld/unity/tree/master/04ngui_defence_gui/Assets
+* 강좌 링크 : http://www.youtube.com/watch?v=K2HLNvOaJhE
